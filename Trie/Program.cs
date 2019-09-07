@@ -1,5 +1,9 @@
 ﻿using System;
 
+//***************************************************************
+// The program presents simply work of data structure named Trie.
+//***************************************************************
+
 namespace Trie
 {
     class Program
