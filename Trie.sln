@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{20593C8D-8A8E-42BE-8E9D-8C93145B8E52}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3DE2ED5C-D23E-45FC-8FD6-00971542837F} = {3DE2ED5C-D23E-45FC-8FD6-00971542837F}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoComplete-Trie-", "..\AutoComplete-Trie-\AutoComplete-Trie-.csproj", "{3DE2ED5C-D23E-45FC-8FD6-00971542837F}"
 EndProject
